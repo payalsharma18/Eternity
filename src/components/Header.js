@@ -58,7 +58,7 @@ function Header() {
         <li><a href='#'>Utilities</a></li>
         <li><a href='#'>Careers</a></li>
         <li><a href='#'>Events</a></li>
-        <li><a href='#'>Support</a></li>
+        <li><a href='#'>Support & Help</a></li>
         <li><a href='#'>Investor Relations</a></li>
     
       </BurgerNav>
