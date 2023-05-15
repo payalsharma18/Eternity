@@ -122,7 +122,7 @@ const RightMenu = styled.div`
   `
 
 const BurgerNav = styled.div`
-
+    overflow: scroll;
     position: fixed;
     background: white;
     top:0;
